@@ -5,8 +5,10 @@
 *.pot
 *.pyc
 __pycache__/
+.idea
 local_settings.py
 db.sqlite3
 media
+
 
 # If your build process includes running collectstatic, then ...
